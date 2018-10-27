@@ -1,7 +1,3 @@
-//Abhishek Chakladar(axc161930)
-//axc161930@utdallas.edu
-//CS 4348.003
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
